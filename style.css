@@ -45,6 +45,15 @@ p{
     
 }
 
+/* Table */
+
+.table{
+    font-size: 15px;
+    margin-left: 50px;
+    margin-right: 0px;
+  
+}
+
 footer{
 
 background-color: #0a0909;
