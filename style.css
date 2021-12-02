@@ -2,6 +2,7 @@
 .nav-item {
     margin-left: 10%;
 }
+
 /* sidebar*/
 .thumbnail {
     width:50%;
@@ -34,3 +35,44 @@ p{
         background-color: white;
         
       }
+
+      /* header for comparison page */
+.imageNav-header {
+    color: #0c0e0d;
+    font-weight: bold;
+    font-size: 8;
+    text-align: center;
+    
+}
+
+footer{
+
+background-color: #0a0909;
+
+border-top-style: solid;
+
+border-top-width: 5px;
+
+border-top-color: rgb(13, 14, 13);
+
+color: white;
+
+min-height: 55px;
+
+font-family: Arial, Tahoma, sans-serif;
+
+font-size: 15px;
+
+text-align: left;
+
+position: fixed;
+
+left: 0;
+
+bottom: 0;
+
+width: 100%;
+
+padding-top: 15px;
+
+}
